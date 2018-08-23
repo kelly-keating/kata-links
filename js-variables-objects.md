@@ -9,6 +9,9 @@
 ## Summary
 Now that you have learned a bit about JavaScript, it's time to use that knowledge a bit more. In this challenge you will be creating a series of variables. The values of the variables will be different types of JavaScript objects.
 
+## repl.it
+> Fork challenge to own account
+
 ## Test-Driven Development
 If you look at the bottom of your index.js file, you'll see a function `assert`. These are tests that will help drive your development. In the developer world, basing your code off of tests is called Test-Driven Development (TDD) and is popular with many developers. 
 
@@ -23,3 +26,5 @@ Hint: If you get an error message that says something like ...
 
 All tests will log `true` in the console when they pass--`false`, otherwise.
 
+## Submit
+> in some fashion
