@@ -9,7 +9,7 @@
 ## Summary
 Now that you have learned a bit about JavaScript, it's time to use that knowledge a bit more. In this challenge you will be creating a series of variables. The values of the variables will be different types of JavaScript objects.
 
-## repl.it
+## [repl.it](https://repl.it/@kelly_keating/JS-Variables-and-Objects)
 > Fork challenge to own account
 
 ## Test-Driven Development
