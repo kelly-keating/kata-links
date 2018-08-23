@@ -22,7 +22,7 @@ var terah = {
 }
 ```
 
-## repl.it
+## [repl.it](https://repl.it/@kelly_keating/Manipulating-JS-Objects)
 > Follow link, fork to own account
 
 ## Run the tests 
