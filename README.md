@@ -1,6 +1,6 @@
 # kata-links
 
-[My account for kata dev](https://repl.it/@kelly_keating)
+[My account for kata dev](https://repl.it/@kelly_keating)\
 [EDA account for students](https://repl.it/@devacademy)
 
 
